@@ -6,6 +6,8 @@
 
 - OAUTH flow - some sort of way to share private data behind API's with select users for a period of time, or particular API call.  Some way to secureley link your oauth and refresh tokens into a contract.
 
-- 
+- Heating Oil Cooperative - its that time of year for me in the north east again.. Time to decide to lock or not the heatin oil prices for the winter.  Every year i get so fustrated with the costs around this, and the need to lock in.  My idea (probably the one I will go with), is to build a dApp, where by consumers of oil can put in their tank sizes and consumption (maybe using automation such as https://www.smartoilgauge.com/) via API, so that we can best match suppliers and consumers. It can provide a market place for oil suppliers and consumers via geography to be matched up and get the best possible price, and instant payment to the supplier on filling.  The gague would automtically trigger payent when the tank level increases, and get the best possible price for both the supplier and the consumer.
+
+
 
 
